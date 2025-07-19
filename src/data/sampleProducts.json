@@ -1,0 +1,442 @@
+[
+  {
+    "id": "1",
+    "name": "Traditional Silk Saree",
+    "price": 2499,
+    "image": "https://images.unsplash.com/photo-1582735689369-4fe89db7114c?w=400&h=300&fit=crop",
+    "region": "Delhi",
+    "language": "hi-IN",
+    "category": "Fashion",
+    "description": "Beautiful traditional silk saree perfect for festivals and special occasions"
+  },
+  {
+    "id": "2",
+    "name": "Smartphone Pro Max",
+    "price": 15999,
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400&h=300&fit=crop",
+    "region": "Mumbai",
+    "language": "en-US",
+    "category": "Electronics",
+    "description": "Latest smartphone with amazing camera and performance features"
+  },
+  {
+    "id": "3",
+    "name": "Cotton Kurta Set",
+    "price": 899,
+    "image": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?w=400&h=300&fit=crop",
+    "region": "Delhi",
+    "language": "hi-IN",
+    "category": "Fashion",
+    "description": "Comfortable cotton kurta set for daily wear and casual occasions"
+  },
+  {
+    "id": "4",
+    "name": "Gaming Laptop",
+    "price": 45999,
+    "image": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=400&h=300&fit=crop",
+    "region": "Bangalore",
+    "language": "en-US",
+    "category": "Electronics",
+    "description": "High-performance gaming laptop with RGB keyboard and powerful graphics"
+  },
+  {
+    "id": "5",
+    "name": "Gold Jewelry Set",
+    "price": 8999,
+    "image": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=400&h=300&fit=crop",
+    "region": "Delhi",
+    "language": "hi-IN",
+    "category": "Jewelry",
+    "description": "Elegant gold jewelry set for weddings and special celebrations"
+  },
+  {
+    "id": "6",
+    "name": "Wireless Headphones",
+    "price": 1999,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400&h=300&fit=crop",
+    "region": "Mumbai",
+    "language": "en-US",
+    "category": "Electronics",
+    "description": "Premium wireless headphones with noise cancellation technology"
+  },
+  {
+    "id": "7",
+    "name": "Traditional Dhoti",
+    "price": 599,
+    "image": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=400&h=300&fit=crop",
+    "region": "Chennai",
+    "language": "ta-IN",
+    "category": "Fashion",
+    "description": "Authentic cotton dhoti for traditional ceremonies and daily wear"
+  },
+  {
+    "id": "8",
+    "name": "Smart TV 55\"",
+    "price": 29999,
+    "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=400&h=300&fit=crop",
+    "region": "Hyderabad",
+    "language": "te-IN",
+    "category": "Electronics",
+    "description": "4K Smart TV with built-in streaming apps and voice control"
+  },
+  {
+    "id": "9",
+    "name": "Silver Anklets",
+    "price": 799,
+    "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=400&h=300&fit=crop",
+    "region": "Kolkata",
+    "language": "bn-IN",
+    "category": "Jewelry",
+    "description": "Traditional silver anklets with traditional designs and bells"
+  },
+  {
+    "id": "10",
+    "name": "Coffee Maker",
+    "price": 1499,
+    "image": "https://images.unsplash.com/photo-1520970014086-2208d157c9e2?w=400&h=300&fit=crop",
+    "region": "Bangalore",
+    "language": "en-US",
+    "category": "Home",
+    "description": "Automatic coffee maker for perfect brew every morning"
+  },
+  {
+    "id": "11",
+    "name": "Mangalsutra Set",
+    "price": 3999,
+    "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=400&h=300&fit=crop",
+    "region": "Mumbai",
+    "language": "mr-IN",
+    "category": "Jewelry",
+    "description": "Traditional mangalsutra set for married women"
+  },
+  {
+    "id": "12",
+    "name": "Yoga Mat",
+    "price": 399,
+    "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400&h=300&fit=crop",
+    "region": "Delhi",
+    "language": "hi-IN",
+    "category": "Fitness",
+    "description": "Premium yoga mat for home workouts and meditation"
+  },
+  {
+    "id": "13",
+    "name": "Rice Cooker",
+    "price": 899,
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop",
+    "region": "Chennai",
+    "language": "ta-IN",
+    "category": "Home",
+    "description": "Electric rice cooker with multiple cooking modes"
+  },
+  {
+    "id": "14",
+    "name": "Traditional Lungi",
+    "price": 299,
+    "image": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=400&h=300&fit=crop",
+    "region": "Kerala",
+    "language": "ml-IN",
+    "category": "Fashion",
+    "description": "Comfortable cotton lungi for daily wear"
+  },
+  {
+    "id": "15",
+    "name": "Bluetooth Speaker",
+    "price": 1299,
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=400&h=300&fit=crop",
+    "region": "Mumbai",
+    "language": "en-US",
+    "category": "Electronics",
+    "description": "Portable Bluetooth speaker with deep bass and long battery life"
+  },
+  {
+    "id": "16",
+    "name": "Pressure Cooker",
+    "price": 699,
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop",
+    "region": "Hyderabad",
+    "language": "te-IN",
+    "category": "Home",
+    "description": "Stainless steel pressure cooker for quick cooking"
+  },
+  {
+    "id": "17",
+    "name": "Traditional Bindi",
+    "price": 199,
+    "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=400&h=300&fit=crop",
+    "region": "Delhi",
+    "language": "hi-IN",
+    "category": "Jewelry",
+    "description": "Beautiful traditional bindi collection for women"
+  },
+  {
+    "id": "18",
+    "name": "Fitness Tracker",
+    "price": 2499,
+    "image": "https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6?w=400&h=300&fit=crop",
+    "region": "Bangalore",
+    "language": "en-US",
+    "category": "Electronics",
+    "description": "Smart fitness tracker with heart rate monitoring"
+  },
+  {
+    "id": "19",
+    "name": "Traditional Pot",
+    "price": 499,
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop",
+    "region": "Kolkata",
+    "language": "bn-IN",
+    "category": "Home",
+    "description": "Traditional clay cooking pot for authentic taste"
+  },
+  {
+    "id": "20",
+    "name": "Silk Dupatta",
+    "price": 899,
+    "image": "https://images.unsplash.com/photo-1582735689369-4fe89db7114c?w=400&h=300&fit=crop",
+    "region": "Varanasi",
+    "language": "hi-IN",
+    "category": "Fashion",
+    "description": "Elegant silk dupatta with traditional embroidery"
+  },
+  {
+    "id": "21",
+    "name": "Tablet Pro",
+    "price": 18999,
+    "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=400&h=300&fit=crop",
+    "region": "Mumbai",
+    "language": "en-US",
+    "category": "Electronics",
+    "description": "10-inch tablet with high-resolution display and long battery"
+  },
+  {
+    "id": "22",
+    "name": "Traditional Saree Blouse",
+    "price": 599,
+    "image": "https://images.unsplash.com/photo-1582735689369-4fe89db7114c?w=400&h=300&fit=crop",
+    "region": "Chennai",
+    "language": "ta-IN",
+    "category": "Fashion",
+    "description": "Matching blouse for traditional saree with embroidery"
+  },
+  {
+    "id": "23",
+    "name": "Nose Ring",
+    "price": 399,
+    "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=400&h=300&fit=crop",
+    "region": "Delhi",
+    "language": "hi-IN",
+    "category": "Jewelry",
+    "description": "Traditional nose ring for cultural occasions"
+  },
+  {
+    "id": "24",
+    "name": "Mixer Grinder",
+    "price": 2499,
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop",
+    "region": "Hyderabad",
+    "language": "te-IN",
+    "category": "Home",
+    "description": "3-jar mixer grinder for all kitchen needs"
+  },
+  {
+    "id": "25",
+    "name": "Traditional Dhoti Kurta",
+    "price": 1299,
+    "image": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?w=400&h=300&fit=crop",
+    "region": "Kolkata",
+    "language": "bn-IN",
+    "category": "Fashion",
+    "description": "Complete traditional dhoti kurta set for ceremonies"
+  },
+  {
+    "id": "26",
+    "name": "Smart Watch",
+    "price": 3999,
+    "image": "https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6?w=400&h=300&fit=crop",
+    "region": "Bangalore",
+    "language": "en-US",
+    "category": "Electronics",
+    "description": "Smart watch with health monitoring and notifications"
+  },
+  {
+    "id": "27",
+    "name": "Traditional Potli",
+    "price": 299,
+    "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=400&h=300&fit=crop",
+    "region": "Mumbai",
+    "language": "mr-IN",
+    "category": "Jewelry",
+    "description": "Traditional potli bag for storing jewelry"
+  },
+  {
+    "id": "28",
+    "name": "Electric Kettle",
+    "price": 799,
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop",
+    "region": "Delhi",
+    "language": "hi-IN",
+    "category": "Home",
+    "description": "Fast electric kettle for tea and coffee"
+  },
+  {
+    "id": "29",
+    "name": "Traditional Mundu",
+    "price": 399,
+    "image": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=400&h=300&fit=crop",
+    "region": "Kerala",
+    "language": "ml-IN",
+    "category": "Fashion",
+    "description": "Traditional white mundu for formal occasions"
+  },
+  {
+    "id": "30",
+    "name": "Gaming Mouse",
+    "price": 1499,
+    "image": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=400&h=300&fit=crop",
+    "region": "Mumbai",
+    "language": "en-US",
+    "category": "Electronics",
+    "description": "RGB gaming mouse with programmable buttons"
+  },
+  {
+    "id": "31",
+    "name": "Traditional Bangles",
+    "price": 599,
+    "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=400&h=300&fit=crop",
+    "region": "Chennai",
+    "language": "ta-IN",
+    "category": "Jewelry",
+    "description": "Set of traditional glass bangles in various colors"
+  },
+  {
+    "id": "32",
+    "name": "Air Purifier",
+    "price": 3999,
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop",
+    "region": "Delhi",
+    "language": "hi-IN",
+    "category": "Home",
+    "description": "HEPA air purifier for clean indoor air"
+  },
+  {
+    "id": "33",
+    "name": "Traditional Kurta",
+    "price": 799,
+    "image": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?w=400&h=300&fit=crop",
+    "region": "Hyderabad",
+    "language": "te-IN",
+    "category": "Fashion",
+    "description": "Comfortable cotton kurta for daily wear"
+  },
+  {
+    "id": "34",
+    "name": "Wireless Earbuds",
+    "price": 1799,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400&h=300&fit=crop",
+    "region": "Bangalore",
+    "language": "en-US",
+    "category": "Electronics",
+    "description": "True wireless earbuds with noise cancellation"
+  },
+  {
+    "id": "35",
+    "name": "Traditional Necklace",
+    "price": 1999,
+    "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=400&h=300&fit=crop",
+    "region": "Kolkata",
+    "language": "bn-IN",
+    "category": "Jewelry",
+    "description": "Traditional necklace with traditional designs"
+  },
+  {
+    "id": "36",
+    "name": "Food Processor",
+    "price": 1899,
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop",
+    "region": "Mumbai",
+    "language": "mr-IN",
+    "category": "Home",
+    "description": "Multi-functional food processor for kitchen"
+  },
+  {
+    "id": "37",
+    "name": "Traditional Sherwani",
+    "price": 5999,
+    "image": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?w=400&h=300&fit=crop",
+    "region": "Delhi",
+    "language": "hi-IN",
+    "category": "Fashion",
+    "description": "Elegant sherwani for weddings and special occasions"
+  },
+  {
+    "id": "38",
+    "name": "Mechanical Keyboard",
+    "price": 2999,
+    "image": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=400&h=300&fit=crop",
+    "region": "Mumbai",
+    "language": "en-US",
+    "category": "Electronics",
+    "description": "RGB mechanical keyboard with blue switches"
+  },
+  {
+    "id": "39",
+    "name": "Traditional Ring",
+    "price": 899,
+    "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=400&h=300&fit=crop",
+    "region": "Chennai",
+    "language": "ta-IN",
+    "category": "Jewelry",
+    "description": "Traditional ring with precious stone"
+  },
+  {
+    "id": "40",
+    "name": "Vacuum Cleaner",
+    "price": 2499,
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop",
+    "region": "Hyderabad",
+    "language": "te-IN",
+    "category": "Home",
+    "description": "Cordless vacuum cleaner for easy cleaning"
+  },
+  {
+    "id": "41",
+    "name": "Traditional Lehenga",
+    "price": 3999,
+    "image": "https://images.unsplash.com/photo-1582735689369-4fe89db7114c?w=400&h=300&fit=crop",
+    "region": "Kolkata",
+    "language": "bn-IN",
+    "category": "Fashion",
+    "description": "Beautiful lehenga for festivals and celebrations"
+  },
+  {
+    "id": "42",
+    "name": "Webcam HD",
+    "price": 1299,
+    "image": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=400&h=300&fit=crop",
+    "region": "Bangalore",
+    "language": "en-US",
+    "category": "Electronics",
+    "description": "HD webcam for video calls and streaming"
+  },
+  {
+    "id": "43",
+    "name": "Traditional Earrings",
+    "price": 699,
+    "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=400&h=300&fit=crop",
+    "region": "Mumbai",
+    "language": "mr-IN",
+    "category": "Jewelry",
+    "description": "Traditional earrings with traditional designs"
+  },
+  {
+    "id": "44",
+    "name": "Microwave Oven",
+    "price": 3499,
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop",
+    "region": "Delhi",
+    "language": "hi-IN",
+    "category": "Home",
+    "description": "Convection microwave oven with multiple cooking modes"
+  }
+] 
