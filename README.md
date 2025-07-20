@@ -77,7 +77,7 @@ Using a scoring algorithm, it reranks products instantly based on match strength
 | Tailwind CSS     | Responsive Styling            |
 | Zustand          | Lightweight State Management  |
 | localStorage     | Persistence without Backend   |
-| Vercel           | Deployment (optional)         |
+| Vercel           | Deployment                    |
 
 ---
 
