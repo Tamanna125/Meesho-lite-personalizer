@@ -88,3 +88,23 @@ score += regionMatch ? 10 : 0;
 score += languageMatch ? 8 : 0;
 score += likedCategoryMatch ? 2 : 0;
 score += withinBudget ? 2 : 0;
+
+
+Installation & Setup
+Follow these steps to run MeeshoLite Personalizer locally on your machine:
+
+bash
+Copy
+Edit
+# Clone this repository
+git clone https://github.com/Tamanna125/MeeshoLite-Personalizer.git
+
+# Navigate into the project folder
+cd MeeshoLite-Personalizer
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+Once started, open http://localhost:5173 in your browser to view the app.
